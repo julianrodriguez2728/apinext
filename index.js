@@ -169,16 +169,6 @@ const tecnology =[
     {
         id:14,
         category:"Headphones",
-        price:124200,
-        name:"G733 WIRELESS GAMING HEADSET,",
-        image:["https://logitechar.vtexassets.com/arquivos/ids/157594-1200-1200?v=637358692052400000&width=1200&height=1200&aspect=true","https://logitechar.vtexassets.com/arquivos/ids/157595-800-800?v=637358692210400000&width=800&height=800&aspect=true"],
-        color:"white",
-        description:`Logitech G733 Wireless Gaming Headset with Suspension Headband, LIGHTSPEED, RGB LIGHTSYNC, Blue VO Microphone Technology! CE and PROG Audio Transducers`,
-        brand:"logitech" 
-    },
-    {
-        id:14,
-        category:"Headphones",
         price:154200,
         name:"A10 HEADSET FOR PS4/PS5",
         image:["https://logitechar.vtexassets.com/arquivos/ids/156561-1200-1200?v=636973475504900000&width=1200&height=1200&aspect=true","https://logitechar.vtexassets.com/arquivos/ids/156710-800-800?v=636973480034800000&width=800&height=800&aspect=true","https://logitechar.vtexassets.com/arquivos/ids/156942-800-800?v=636973494060500000&width=800&height=800&aspect=true"],
@@ -296,16 +286,6 @@ const tecnology =[
         color:"black",
         description:`The new favorite of the best esports professionals weighs less than 63 grams and glides with little friction.  PRO X SUPERLIGHT showcases our ZERØ OPPOSITION design technology, our aim to remove obstacles and create the purest possible connection between player and game.`,
         brand:"logitech"
-    },
-    {
-        id:25,
-        category:"Mouse",
-        price:52200,
-        name:"Redragon M913",
-        image:["https://www.redragonzone.com/cdn/shop/files/M913-1_450x450.png?v=1686365181","https://th.bing.com/th/id/R.099d3bf547ae8ce1a810f5edad36da9b?rik=nTUrmaF2duaelg&pid=ImgRaw&r=0","https://th.bing.com/th/id/R.e35f5e542df91efbc80d61393d4f5ac9?rik=XaiD5%2bmKq67D8A&pid=ImgRaw&r=0"],
-        color:"black",
-        description:`Impact Elite Wireless Gaming Mouse, 16000 DPI Wired/Wireless RGB Gamer`,
-        brand:"redragon"
     },
     {
         id:26,
