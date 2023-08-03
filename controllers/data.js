@@ -277,22 +277,11 @@ const tecnology =[
         stock:9
     },
     {
-        id:24,
-        category:"Mouse",
-        price:32200,
-        name:"G502 X Plus Wireless RGB Gaming Mouse",
-        image:"https://logitechar.vtexassets.com/arquivos/ids/159082-800-800?v=638198567820900000&width=800&height=800&aspect=true",
-        color:"white",
-        description:`The new favorite of the best esports professionals weighs less than 63 grams and glides with little friction.  PRO X SUPERLIGHT showcases our ZERØ OPPOSITION design technology, our aim to remove obstacles and create the purest possible connection between player and game.`,
-        brand:"logitech",
-        stock: 6
-    },
-    {
         id:25,
         category:"Mouse",
         price:32200,
         name:"G502 X Plus Wireless RGB Gaming Mouse",
-        image:"https://logitechar.vtexassets.com/arquivos/ids/159066-800-800?v=638198543892570000&width=800&height=800&aspect=true",
+        image:"https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g502x-plus/gallery/g502x-plus-gallery-2-white.png?v=1",
         color:"black",
         description:`The new favorite of the best esports professionals weighs less than 63 grams and glides with little friction.  PRO X SUPERLIGHT showcases our ZERØ OPPOSITION design technology, our aim to remove obstacles and create the purest possible connection between player and game.`,
         brand:"logitech",
